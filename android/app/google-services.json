@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "415607226465",
+    "firebase_url": "https://gelyfun-18d04.firebaseio.com",
+    "project_id": "gelyfun-18d04",
+    "storage_bucket": "gelyfun-18d04.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:415607226465:android:74e6eb6fdd054c9803aa20",
+        "android_client_info": {
+          "package_name": "com.example.gelyfun"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "415607226465-blbs9hgvcuf767f64qe0a6fpam1m8r5f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gelyfun",
+            "certificate_hash": "569782bcd75bf38ff3dfe1348f9da5d356a3fc0f"
+          }
+        },
+        {
+          "client_id": "415607226465-qalqh843rlv8enq894hc8cnrg5osad0i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_3UfEWJcUYOnQzy8GHZVbQ552EGYLfXc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "415607226465-qalqh843rlv8enq894hc8cnrg5osad0i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
